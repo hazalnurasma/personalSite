@@ -13,6 +13,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
  
  Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details. 
  
-![Logo](https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png)
+![Logo](https://static-00.iconduck.com/assets.00/nextjs-icon-1024x617-pqycciiu.png)
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/100px-Tailwind_CSS_Logo.svg.png)

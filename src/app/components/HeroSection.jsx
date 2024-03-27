@@ -14,7 +14,7 @@ const HeroSection = () => {
                 </p>
             </div>
             <div className="col-span-5">
-                <img></img>
+                <img>Gonna add</img>
             </div>
         </div>
     </section>

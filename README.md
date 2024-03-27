@@ -11,6 +11,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Deploy on Vercel The easiest way to deploy your Next.js app is to use the [Vercel Platform]
 (https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js. Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details. 
 
-![Logo]([https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png](https://media.dev.to/cdn-cgi/image/width=640,height=360,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuo924suhwzztfd5zr1h.png))
+![Logo]([[https://static-00.iconduck.com/assets.00/nextjs-icon-2048x1234-pqycciiu.png](https://media.dev.to/cdn-cgi/image/width=640,height=360,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuo924suhwzztfd5zr1h.png](https://media.dev.to/cdn-cgi/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhuo924suhwzztfd5zr1h.png))
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/100px-Tailwind_CSS_Logo.svg.png)
